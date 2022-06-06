@@ -86,6 +86,10 @@ app.get('/main.js', (req,res) => {
     res.sendFile(__dirname + '/main.js')
 })
 
+app.get('/main.css', (req,res) => {
+    res.sendFile(__dirname + '/main.css')
+})
+
 app.listen(process.env.PORT || PORT, (req,res) => {
     console.log('I\'m listening...')
 })
