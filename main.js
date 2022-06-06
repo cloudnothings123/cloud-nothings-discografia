@@ -1,8 +1,8 @@
 document.getElementById('entryButton').addEventListener('click', runApi)
 
-async function runAPI(){
+async function runApi(){
 
-    const albumName = document.getElementById('input').value
+    let albumName = document.querySelector('input').value.toLowerCase()
 
     try{
         const res = await fetch(`https://cloud-nothings-discografia.herokuapp.com/api/${albumName}`)
