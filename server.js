@@ -82,7 +82,7 @@ app.get('/api/:albumName', (req,res) => {
     }
 })
 
-app.get('/Users/dylanbaldi/Coding/cloud-nothings-discografia-client/main.js', (req,res) => {
+app.get('/main.js', (req,res) => {
     res.sendFile(__dirname + '/main.js')
 })
 

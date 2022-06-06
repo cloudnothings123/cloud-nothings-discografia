@@ -2,11 +2,11 @@ document.getElementById('entryButton').addEventListener('click', runApi)
 
 async function runApi(){
 
-    let albumName = document.querySelector('input').value.toLowerCase()
+    let albumName = document.querySelector('input').value
 
     try{
-        const res = await fetch(`https://cloud-nothings-discografia.herokuapp.com/api/${albumName}`)
-        const data = await res.json()
+        const response = await fetch(`https://cloud-nothings-discografia.herokuapp.com/api/${albumName}`)
+        const data = await response.json()
         console.log(data)
 
         document.getElementById('releaseYear').innerText = data.releaseYear
