@@ -57,7 +57,7 @@ const albums = {
         'longestSong': 'Oslo',
         'shortestSong': 'It\'s Love',
         'songwriters' : 'Dylan Baldi',
-        'image': '/images/theShadowIRemember.jpeg'
+        'image': __dirname + '/images/theShadowIRemember.jpeg'
     },
     'unknown': {
         'releaseYear': 'missingno',
