@@ -57,7 +57,7 @@ const albums = {
         'longestSong': 'Oslo',
         'shortestSong': 'It\'s Love',
         'songwriters' : 'Dylan Baldi',
-        'image': __dirname + '/images/theShadowIRemember.jpeg'
+        'image': '/Users/dylanbaldi/Coding/cloud-nothings-discografia/images/theShadowIRemember.jpeg'
     },
     'unknown': {
         'releaseYear': 'missingno',
