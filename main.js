@@ -9,6 +9,8 @@ async function runApi(){
         const data = await response.json()
         console.log(data)
 
+        document.getElementById('information').display = ''
+
         document.getElementById('releaseYear').innerText = data.releaseYear
         document.getElementById('trackAmount').innerText = data.trackAmount
         document.getElementById('longestSong').innerText = data.longestSong
