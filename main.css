@@ -37,4 +37,9 @@ li {
 
 #information {
     display: none;
+    flex-direction: column;
+}
+
+img {
+    height: 10em;
 }
