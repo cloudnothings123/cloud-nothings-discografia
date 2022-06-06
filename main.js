@@ -17,7 +17,6 @@ async function runApi(){
         document.getElementById('shortestSong').innerText = data.shortestSong
 
         document.getElementById('albumCover').src = data.image
-        document.getElementById('coverCaption').innerText = albumName
     }
     catch(error){
         console.log(error)

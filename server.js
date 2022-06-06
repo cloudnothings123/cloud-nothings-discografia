@@ -9,7 +9,7 @@ const albums = {
         'longestSong': 'Turning On',
         'shortestSong': 'Old Street',
         'songwriters' : 'Dylan Baldi',
-        'image': 'https://i.discogs.com/467eA8Pbz5U7T8CGj1Y3vuPLQM9HRrlVfv1bznqtGZ4/rs:fill/g:sm/q:40/h:100/w:100/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcx/ODItMTI5NjA5MzY4/MC5qcGVn.jpeg'
+        'image': 'https://f4.bcbits.com/img/a3087574891_10.jpg'
     },
     'cloud nothings': {
         'releaseYear': 2011,
@@ -17,7 +17,7 @@ const albums = {
         'longestSong': 'Understand at All',
         'shortestSong': 'Heartbeat' ,
         'songwriters' : 'Dylan Baldi',
-        'image': 'https://i.discogs.com/7Quc8mFNY_5cyKJTrd6QlJYCNhIN68Qg6AMvOY3TZLs/rs:fill/g:sm/q:40/h:100/w:100/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODY1/OTMtMTYxMzgyMTQy/NS03ODg0LmpwZWc.jpeg'
+        'image': 'https://m.media-amazon.com/images/I/51xv-Ah9KHL.jpg'
     },
     'attack on memory': {
         'releaseYear': 2012,
@@ -25,7 +25,7 @@ const albums = {
         'longestSong':'Wasted Days',
         'shortestSong': 'Cut You' ,
         'songwriters' : 'Dylan Baldi',
-        'image': 'https://i.discogs.com/5-GFqu1E3l8YfC4yA9p_il1NqUgThvd76ScZlTlpx4c/rs:fill/g:sm/q:40/h:100/w:100/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTU2/MzAtMTQ0NDcyMzU2/NC05NTM4LmpwZWc.jpeg'
+        'image': 'https://townsquare.media/site/838/files/2022/01/attachment-cloud-nothings-attack-on-memory.jpeg'
     },
     'here and nowhere else': {
         'releaseYear': 2014,
@@ -33,7 +33,7 @@ const albums = {
         'longestSong': 'Pattern Walks',
         'shortestSong': 'Psychic Trauma',
         'songwriters' : 'Dylan Baldi',
-        'image': 'https://i.discogs.com/OHAR8I98H7xmQAjAywLoTQ05cxUfPiO4FxnfG7tbtrE/rs:fill/g:sm/q:40/h:100/w:100/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzg1/MjMtMTQ5MzQ4OTEw/OC03Njg1LmpwZWc.jpeg'
+        'image': 'https://images.squarespace-cdn.com/content/v1/5732969486db439cb3ff3d12/1602526546621-418O9ZC74U5K677DVVD3/0677517009224.jpg'
     },
     'life without sound': {
         'releaseYear': 2016,
@@ -41,7 +41,7 @@ const albums = {
         'longestSong': 'Realize My Fate',
         'shortestSong': 'Internal World' ,
         'songwriters' : 'Dylan Baldi',
-        'image': 'https://i.discogs.com/AK-WqFibOj62BcaUdzwmwsW6viDuPn-CK1h8mtNU8dc/rs:fill/g:sm/q:40/h:100/w:100/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTM4/NzMtMTQ4NTE5NzA4/Mi0xNjkxLmpwZWc.jpeg'
+        'image': 'https://api.floodmagazine.com/wp-content/uploads/2017/02/Cloud_Nothings-2017-Life_Without_Sound.jpg'
     },
     'last building burning': {
         'releaseYear': 2018,
@@ -49,7 +49,7 @@ const albums = {
         'longestSong': 'Dissolution',
         'shortestSong': 'On an Edge',
         'songwriters' : 'Dylan Baldi',
-        'image': 'https://i.discogs.com/hINGnLD0Ep7X1ijls-4rFBd11-edqIegIEnqbqEe0R4/rs:fill/g:sm/q:40/h:100/w:100/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA0/MDQyLTE1NDAzODc5/NjItMTAxOC5qcGVn.jpeg'
+        'image': 'https://diy-magazine.s3.amazonaws.com/d/diy/Artists/C/Cloud_Nothings/_900x900_crop_center-center_41_line/cloud-nothings-lp.jpg'
     },
     'the shadow i remember': {
         'releaseYear': 2021,
@@ -57,7 +57,7 @@ const albums = {
         'longestSong': 'Oslo',
         'shortestSong': 'It\'s Love',
         'songwriters' : 'Dylan Baldi',
-        'image': 'https://i.discogs.com/gcvDVm5DEVF-AYfJqcnrHqxc-qSz34vTS33_xGnC5jI/rs:fill/g:sm/q:40/h:100/w:100/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTI3/Mjc2LTE2MTM5NDY2/MjItOTMzMS5qcGVn.jpeg'
+        'image': 'https://media.pitchfork.com/photos/6037e1da97b2d90479ab228e/1:1/w_320/Cloud-Nothings.jpg'
     },
     'unknown': {
         'releaseYear': 'missingno',
