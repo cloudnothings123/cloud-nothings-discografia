@@ -9,7 +9,7 @@ const albums = {
         'longestSong': 'Turning On',
         'shortestSong': 'Old Street',
         'songwriters' : 'Dylan Baldi',
-        'image': '/turningOn.jpeg'
+        'image': '/images/turningOn.jpeg'
     },
     'cloud nothings': {
         'releaseYear': 2011,
@@ -17,7 +17,7 @@ const albums = {
         'longestSong': 'Understand at All',
         'shortestSong': 'Heartbeat' ,
         'songwriters' : 'Dylan Baldi',
-        'image': '/cloudNothings.jpeg'
+        'image': '/images/cloudNothings.jpeg'
     },
     'attack on memory': {
         'releaseYear': 2012,
@@ -25,7 +25,7 @@ const albums = {
         'longestSong':'Wasted Days',
         'shortestSong': 'Cut You' ,
         'songwriters' : 'Dylan Baldi',
-        'image': '/attackOnMemory.jpeg'
+        'image': '/images/attackOnMemory.jpeg'
     },
     'here and nowhere else': {
         'releaseYear': 2014,
@@ -33,7 +33,7 @@ const albums = {
         'longestSong': 'Pattern Walks',
         'shortestSong': 'Psychic Trauma',
         'songwriters' : 'Dylan Baldi',
-        'image': '/hereAndNowhereElse.jpeg'
+        'image': '/images/hereAndNowhereElse.jpeg'
     },
     'life without sound': {
         'releaseYear': 2016,
@@ -41,7 +41,7 @@ const albums = {
         'longestSong': 'Realize My Fate',
         'shortestSong': 'Internal World' ,
         'songwriters' : 'Dylan Baldi',
-        'image': '/lifeWithoutSound.jpeg'
+        'image': '/images/lifeWithoutSound.jpeg'
     },
     'last building burning': {
         'releaseYear': 2017,
@@ -49,7 +49,7 @@ const albums = {
         'longestSong': 'Dissolution',
         'shortestSong': 'On an Edge',
         'songwriters' : 'Dylan Baldi',
-        'image': '/lastBuildingBurning.jpeg'
+        'image': '/images/lastBuildingBurning.jpeg'
     },
     'the shadow i remember': {
         'releaseYear': 2021,
@@ -57,7 +57,7 @@ const albums = {
         'longestSong': 'Oslo',
         'shortestSong': 'It\'s Love',
         'songwriters' : 'Dylan Baldi',
-        'image': '/theShadowIRemember.jpeg'
+        'image': '/images/theShadowIRemember.jpeg'
     },
     'unknown': {
         'releaseYear': 'missingno',
