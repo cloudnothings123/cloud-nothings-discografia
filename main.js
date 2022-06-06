@@ -9,7 +9,7 @@ async function runApi(){
         const data = await response.json()
         console.log(data)
 
-        document.getElementById('information').style.display = ''
+        document.getElementById('information').style.display = 'flex'
 
         document.getElementById('releaseYear').innerText = data.releaseYear
         document.getElementById('trackAmount').innerText = data.trackAmount
