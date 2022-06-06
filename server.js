@@ -82,6 +82,10 @@ app.get('/api/:albumName', (req,res) => {
     }
 })
 
+app.get('/Users/dylanbaldi/Coding/cloud-nothings-discografia-client/main.js', (req,res) => {
+    res.sendFile('/Users/dylanbaldi/Coding/cloud-nothings-discografia-client/main.js')
+})
+
 app.listen(process.env.PORT || PORT, (req,res) => {
     console.log('I\'m listening...')
 })
